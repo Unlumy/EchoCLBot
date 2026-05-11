@@ -1,4 +1,4 @@
-# Hello there , feature users of ECHO Cl Bot!
+# Hello there, feature users of ECHO Cl Bot!
 There are all information how to fast start the bot, aboute bot, feature plans to bot
 1. [Fast start the bot](#fast-start)
 2. [Aboute](#aboute)
@@ -55,12 +55,7 @@ Pluses:
 - You can from 22.04.26 config points to devide text
 
 ## Future of bot
-In future, I plan to add:
+In future, We plan to add:
 - (Added!)Make possible to customise all messages from bot to discord by adding language packs
 - Make possible to working with Pull Request from Discord by leads of project for example
 - (Added!) Make possible to add tags from which will collecting all information in body of PR
-
-
-
-
-### Also you always can write me in Discord(firemix_) to talk 
