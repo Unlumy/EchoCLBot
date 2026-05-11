@@ -1,4 +1,4 @@
-# Hello there , feature users of ECHO Cl Bot by me, Firemix!
+# Hello there , feature users of ECHO Cl Bot!
 There are all information how to fast start the bot, aboute bot, feature plans to bot
 1. [Fast start the bot](#fast-start)
 2. [Aboute](#aboute)
